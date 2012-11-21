@@ -1,13 +1,13 @@
 ## Ingredientes
-1/2 Carne Molida
-1 Cebolla
-1 Ajo
-1 Aji
-Mantequilla
-Salsa de Soya
-Sal
-Pimienta
-Basil
+* 1/2 Carne Molida
+* 1 Cebolla
+* 1 Ajo
+* 1 Aji
+* Mantequilla
+* Salsa de Soya
+* Sal
+* Pimienta
+* Basil
 
 ## Preparacion
 A fuego medio poner sal, pimienta y una cucharada de mantequilla, hasta
